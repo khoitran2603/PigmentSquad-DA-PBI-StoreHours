@@ -96,7 +96,14 @@ The analysis uses structured POS transaction data (SQL-based ETL pipelines, Bron
 
 ## What-If Scenarios
 
-- **Baseline:** 72 hrs/week, Staff cost $79.8k, Outside-hours sales $480.  
+- **Baseline:** 72 hrs/week, Staff cost $79.8k, Outside-hours sales $480.
+
+ <p align="center">
+  <img src="docs/operation_hours.png" width="20%"/>
+  <br />
+  <em>Fig. 5: Store Operation Hour </em>
+</p>
+
 - **Scenario 1 (Shorter Hours):** Save $2.7k but lose ~$7.8k sales.  
 - **Scenario 2 (Staff Cut, No Hour Change):** Save **$10.5k**, no sales loss ✅.  
 - **Scenario 3 (Close Earlier Sun–Thurs):** Save $3.5k, lose ~$1.7k sales.  
@@ -104,7 +111,7 @@ The analysis uses structured POS transaction data (SQL-based ETL pipelines, Bron
 <p align="center">
   <img src="docs/scenario_comparison.png" width="70%"/>
   <br />
-  <em>Fig. 5: Scenario Comparison – Cost vs Sales Impact</em>
+  <em>Fig. 6: Scenario Comparison – Cost vs Sales Impact</em>
 </p>
 
 ---
