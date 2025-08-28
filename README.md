@@ -17,11 +17,28 @@ The analysis uses structured POS transaction data (SQL-based ETL pipelines, Bron
 - Peaks in Jan, Apr (~$37k) and Jul (~$29k), driven by school holidays.  
 
 <p align="center">
-  <img src="docs/monthly_sales.png" width="70%"/>
+  <img src="docs/monthly_sales.png" width="40%"/>
   <br />
   <em>Fig. 1: Monthly Sales Trend</em>
 </p>
 
+<p align="center">                                                    
+  <img src="docs/monthly_sales_summer.png" width="35%"/>
+  <br />
+  <em>Fig. 1.5: Summer 2025</em>
+</p>
+
+<p align="center">
+  <img src="docs/monthly_sales_fall.png" width="35%"/>
+  <br />
+  <em>Fig. 1.5: Fall 2025</em>
+</p>
+
+<p align="center">
+  <img src="docs/monthly_sales_winter.png" width="35%"/>
+  <br />
+  <em>Fig. 1.5: Winter 2025</em>
+</p>
 ---
 
 ### 2. Day & Hour Patterns
@@ -30,10 +47,15 @@ The analysis uses structured POS transaction data (SQL-based ETL pipelines, Bron
 - 1–4pm block drives ~40% of sales.  
 
 <p align="center">
-  <img src="docs/weekday_sales.png" width="45%"/>
-  <img src="docs/hourly_sales.png" width="45%"/>
+  <img src="docs/weekday_sales.png" width="30%"/>
   <br />
-  <em>Fig. 2: Weekday & Hourly Sales Patterns</em>
+  <em>Fig. 2: Weekday Sales Patterns</em>
+</p>
+
+<p align="center">
+  <img src="docs/hourly_sales.png" width="75%"/>
+  <br />
+  <em>Fig. 3: Hourly Sales Patterns</em>
 </p>
 
 ---
@@ -44,7 +66,8 @@ The analysis uses structured POS transaction data (SQL-based ETL pipelines, Bron
 - Investing in faster varnish process = opportunity to raise transaction value.  
 
 <p align="center">
-  <img src="docs/product_mix.png" width="50%"/>
+  <img src="docs/product_mix.png" width="30%"/>
+  <img src="docs/product_mix_2.png" width="30%"/>
   <br />
   <em>Fig. 3: Product Category Share</em>
 </p>
@@ -57,9 +80,16 @@ The analysis uses structured POS transaction data (SQL-based ETL pipelines, Bron
 - Low yield: weekday mornings, Mon–Thurs late evenings.  
 
 <p align="center">
-  <img src="docs/store_hours_heatmap.png" width="70%"/>
+  <img src="docs/store_hours_treemap.png" width="25%"/>
   <br />
   <em>Fig. 4: Heatmap of Transactions by Weekday × Hour</em>
+</p>
+
+<p align="center">
+  <img src="docs/store_hours_open.png" width="25%"/>
+  <img src="docs/store_hours_close.png" width="25%"/>
+  <br />
+  <em>Fig. 5: Heatmap of Transactions by Weekday × Open/Close Hours</em>
 </p>
 
 ---
