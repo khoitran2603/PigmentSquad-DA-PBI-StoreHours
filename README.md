@@ -1,1 +1,1 @@
-# PigmentSquad-DA-SQL_PBI-StoreHours
+**NOTE: This project was part of my contractual work for the business, conducted with the approval and consent of the business owner. Certain information has been removed to protect the business's privacy.**
