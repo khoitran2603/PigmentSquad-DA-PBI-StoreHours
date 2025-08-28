@@ -118,11 +118,22 @@ The analysis uses structured POS transaction data (SQL-based ETL pipelines, Bron
 ---
 
 ## Recommendation
-👉 Adopt **Scenario 2** – staff-hour reduction only.  
-- Highest saving ($10.5k, ~$1.5k/month).  
-- No revenue loss.  
-- Easy to reverse if demand grows.  
+1. **Protect Revenue Hours**  
+   - Keep core trading hours intact: **12–5pm, weekends, and Fri–Sat evenings.**  
+   - Cutting these hours risks meaningful sales loss.  
 
+2. **Trim Low-Value Hours**  
+   - Early mornings and Mon–Thurs late evenings consistently underperform.  
+   - These are the safest areas to reduce staff coverage or shorten operating hours.  
+
+3. **Leverage Flexible Staffing**  
+   - Cap weekly paid staff hours (~62 hrs/week) to unlock ~$10k annual savings.  
+   - Use the business owner (or flexible staff shifts) to cover edge hours where sales are minimal but presence is still required.  
+
+4. **Iterate and Monitor**  
+   - Trial adjustments for 4–6 weeks.  
+   - Use dashboards (heatmaps + scenario tracking) to confirm no significant sales loss.  
+   - Adjust staffing mix if demand shifts.
 ---
 
 ### Deliverables
