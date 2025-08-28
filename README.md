@@ -39,6 +39,7 @@ The analysis uses structured POS transaction data (SQL-based ETL pipelines, Bron
   <br />
   <em>Fig. 1.5: Winter 2025</em>
 </p>
+
 ---
 
 ### 2. Day & Hour Patterns
