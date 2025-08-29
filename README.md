@@ -26,18 +26,21 @@ The analysis uses structured POS transaction data (SQL-based ETL pipelines, Bron
   <img src="docs/monthly_sales_summer.png" width="35%"/>
   <br />
   <em>Fig. 1.5: Summer 2025</em>
+  <em>(School break: 20/12/24-20/01/25)</em>
 </p>
 
 <p align="center">
   <img src="docs/monthly_sales_fall.png" width="35%"/>
   <br />
   <em>Fig. 1.5: Fall 2025</em>
+  <em>(School break: 5/04/25-21/04/25 )</em>
 </p>
 
 <p align="center">
   <img src="docs/monthly_sales_winter.png" width="35%"/>
   <br />
   <em>Fig. 1.5: Winter 2025</em>
+  <em>(School break: 5/07/25-20/07/25)</em>
 </p>
 
 ---
