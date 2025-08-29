@@ -1,20 +1,20 @@
 **NOTE: This project was part of my contractual work for the business, conducted with the approval and consent of the business owner. Certain information has been removed to protect the business's privacy.**
 
-# Pigment Squad – Store Hours Optimization (Jan–Jul 2025)
+# Pigment Squad – Store Hours Optimisation (Jan–Jul 2025)
 
 ### About the Project
-This project analyzes sales and operating patterns for Pigment Squad to answer a critical business question:  
-**How can we optimize store hours and staffing to maximize profit while minimizing unnecessary cost?**
+This project investigates Pigment Squad’s trading hours and staffing patterns to answer a key operational question:  
+**How can the business reduce staff costs without risking meaningful sales loss?**
 
-The analysis uses structured POS transaction data (SQL-based ETL pipelines, Bronze–Silver–Gold layers) with Power BI dashboards for visualization. Unlike the first project (product classification), this report focuses solely on **time-driven performance** to support operational decisions.
+The work builds on structured POS transaction data processed through the SQL-based ETL pipeline (Bronze → Silver → Gold layers), with insights delivered through Power BI dashboards. 
 
 ---
 
 ## Key Insights
 
 ### 1. Sales Performance
-- $195k sales from 9,000 transactions (avg. $22 each).  
-- Peaks in Jan, Apr (~$37k) and Jul (~$29k), driven by school holidays.  
+From January to July 2025, the store generated **$195k from 9,000 transactions**, with an average spend of about **$22 per customer**.  
+Sales peaked in **January and April (~$37k each)** and again in **July (~$29k)**, closely aligning with **school holidays and public events**.
 
 <p align="center">
   <img src="docs/monthly_sales.png" width="40%"/>
@@ -22,25 +22,23 @@ The analysis uses structured POS transaction data (SQL-based ETL pipelines, Bron
   <em>Fig. 1: Monthly Sales Trend</em>
 </p>
 
-<p align="center">                                                    
-  <img src="docs/monthly_sales_summer.png" width="35%"/>
-  <br />
-  <em>Fig. 1.5: Summer 2025</em>
-  <em>(School break: 20/12/24-20/01/25)</em>
-</p>
-
 <p align="center">
-  <img src="docs/monthly_sales_fall.png" width="35%"/>
-  <br />
-  <em>Fig. 1.5: Fall 2025</em>
-  <em>(School break: 5/04/25-21/04/25 )</em>
-</p>
-
-<p align="center">
-  <img src="docs/monthly_sales_winter.png" width="35%"/>
-  <br />
-  <em>Fig. 1.5: Winter 2025</em>
-  <em>(School break: 5/07/25-20/07/25)</em>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="docs/monthly_sales_summer.png" width="100%"/><br />
+        <em>Fig. 1.5: Summer 2025<br />(School break: 20/12/24-20/01/25)</em>
+      </td>
+      <td align="center">
+        <img src="docs/monthly_sales_fall.png" width="100%"/><br />
+        <em>Fig. 1.5: Fall 2025<br />(School break: 05/04/25-21/04/25)</em>
+      </td>
+      <td align="center">
+        <img src="docs/monthly_sales_winter.png" width="100%"/><br />
+        <em>Fig. 1.6: Winter 2025<br />(School break: 05/07/25-20/07/25)</em>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
