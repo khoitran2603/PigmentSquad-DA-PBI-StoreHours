@@ -44,9 +44,9 @@ Sales peaked in **January and April (~$37k each)** and again in **July (~$29k)**
 ---
 
 ### 2. Day & Hour Patterns
-- Saturdays = >2× weekday average; Fridays strong.  
-- Peak hour = **2pm (15% of all transactions)**.  
-- 1–4pm block drives ~40% of sales.  
+Customer activity is **heavily weekend-driven**.  
+- Saturdays deliver more than **double the weekday** and 1.5× higher than Friday or Sunday.  
+- Peak demand occurs at **2pm alone (15% of all transactions)**, while the 1–4pm block contributes nearly **40% of sales**.
 
 <p align="center">
   <img src="docs/weekday_sales.png" width="30%"/>
@@ -63,23 +63,29 @@ Sales peaked in **January and April (~$37k each)** and again in **July (~$29k)**
 ---
 
 ### 3. Product Mix
-- Figurines = 70% of sales.  
-- Varnish upsell low (~20% transactions) due to slow manual drying.  
-- Investing in faster varnish process = opportunity to raise transaction value.  
+The store’s core business remains **unpainted figurines (70% of transactions)**.  
+However, the varnish (Service) upgrade is chosen by only **one in three customers**, largely due to the slow manual process using hand-dryers.  
+Investing in faster varnish equipment could raise uptake, improving both customer experience and transaction value.
 
 <p align="center">
-  <img src="docs/product_mix.png" width="30%"/>
-  <img src="docs/product_mix_2.png" width="30%"/>
-  <br />
-  <em>Fig. 3: Product Category Share</em>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="docs/product_mix.png" width="100%"/><br />
+        <em>Fig. 3: Product Category Share</em>
+      </td>
+      <td align="center">
+        <img src="docs/product_mix_2.png" width="100%"/><br />
+        <em>Fig. 3.5: Product Category Share - Service</em>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
 
 ### 4. Store Hours Efficiency
-- Prime window: **12–5pm (esp. Fri–Sun)**.  
-- Valuable “edge hours”: Fri–Sat before close, Sat–Sun after open.  
-- Low yield: weekday mornings, Mon–Thurs late evenings.  
+Most sales happen in the **prime window of 12–5pm**, especially Fridays and weekends.  
 
 <p align="center">
   <img src="docs/store_hours_treemap.png" width="25%"/>
@@ -87,9 +93,13 @@ Sales peaked in **January and April (~$37k each)** and again in **July (~$29k)**
   <em>Fig. 4: Heatmap of Transactions by Weekday × Hour</em>
 </p>
 
+“Edge hours” also matter:  
+- **Before close (Fri–Sat evenings)** and **after open (Sat–Sun mornings)** show healthy activity.
+- In contrast, **weekday mornings** and **late nights Mon–Thurs** are consistently underperforming. These are the safest candidates for cost-saving cuts.
+
 <p align="center">
-  <img src="docs/store_hours_open.png" width="25%"/>
-  <img src="docs/store_hours_close.png" width="25%"/>
+  <img src="docs/store_hours_open.png" width="40%"/>
+  <img src="docs/store_hours_close.png" width="40%"/>
   <br />
   <em>Fig. 5: Heatmap of Transactions by Weekday × Open/Close Hours</em>
 </p>
