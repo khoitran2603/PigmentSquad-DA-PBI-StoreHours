@@ -106,9 +106,12 @@ Most sales happen in the **prime window of 12–5pm**, especially Fridays and we
 
 ---
 
-## What-If Scenarios
+## What-If Scenarios (Jan–Jul 2025)
 
-- **Baseline:** 72 hrs/week, Staff cost $79.8k, Outside-hours sales $480.
+To test how staffing adjustments could reduce costs without hurting revenue, three scenarios were modelled.  
+All scenarios assume one staff member per day, with extra Saturday support, across 30 weeks.
+
+- **Baseline:** 72 hrs/week, Staff cost **$79.8k**, Outside-hours sales **$480**.
 
  <p align="center">
   <img src="docs/operation_hours.png" width="20%"/>
@@ -116,9 +119,33 @@ Most sales happen in the **prime window of 12–5pm**, especially Fridays and we
   <em>Fig. 5: Store Operation Hour </em>
 </p>
 
-- **Scenario 1 (Shorter Hours):** Save $2.7k but lose ~$7.8k sales.  
-- **Scenario 2 (Staff Cut, No Hour Change):** Save **$10.5k**, no sales loss ✅.  
-- **Scenario 3 (Close Earlier Sun–Thurs):** Save $3.5k, lose ~$1.7k sales.  
+<p align="center">
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Scenario 1 – Open Later, Close Earlier</strong><br /><br />
+      By shifting the opening one hour later (Mon–Fri) and closing one hour earlier (Sun–Thurs), 
+      total weekly hours fall to <strong>62</strong>. <br /><br />
+      Staff cost drops to <strong>$69,300</strong>, but this reduction in trading hours is estimated 
+      to cut about <strong>$7,800 of sales</strong>. <br /><br />
+      Net effect: a modest saving of <strong>$2,700 (~$380/month)</strong>.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Scenario 2 – Reduce Staff Hours (Store Hours Unchanged)</strong><br /><br />
+      The store remains open full hours, but paid staff hours are capped at <strong>62 per week</strong>. <br /><br />
+      Staff cost falls to <strong>$69,300</strong>, with <strong>no sales loss</strong>, as the business owner 
+      covers one unpaid hour before opening and after closing. <br /><br />
+      This delivers the <strong>largest saving of $10,500 (~$1,500/month)</strong>.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Scenario 3 – Close Earlier on Weekdays</strong><br /><br />
+      By closing earlier from Sunday through Thursday, weekly hours reduce to <strong>67</strong>. <br /><br />
+      Staff cost lowers to <strong>$74,550</strong>, while sales loss is relatively small (~<strong>$1,700</strong>). <br /><br />
+      Net saving: about <strong>$3,550 (~$500/month)</strong>.
+    </td>
+  </tr>
+</table>
+</p>
 
 <p align="center">
   <img src="docs/scenario_comparison.png" width="70%"/>
@@ -128,23 +155,23 @@ Most sales happen in the **prime window of 12–5pm**, especially Fridays and we
 
 ---
 
-## Recommendation
+## Key Recommendation
 1. **Protect Revenue Hours**  
-   - Keep core trading hours intact: **12–5pm, weekends, and Fri–Sat evenings.**  
-   - Cutting these hours risks meaningful sales loss.  
+   - Safeguard afternoons (12–5pm), weekends, and Fri–Sat evenings.  
+   - These periods consistently deliver the highest sales.  
 
 2. **Trim Low-Value Hours**  
-   - Early mornings and Mon–Thurs late evenings consistently underperform.  
-   - These are the safest areas to reduce staff coverage or shorten operating hours.  
+   - Early mornings and Mon–Thurs late evenings are the lowest performers.  
+   - Safest areas to shorten hours or reduce staff coverage.  
 
 3. **Leverage Flexible Staffing**  
-   - Cap weekly paid staff hours (~62 hrs/week) to unlock ~$10k annual savings.  
-   - Use the business owner (or flexible staff shifts) to cover edge hours where sales are minimal but presence is still required.  
+   - Cap paid staff at ~62 hrs/week to unlock ~$10k annual savings.  
+   - Use the owner (or flex shifts) only for marginal edge hours.   
 
 4. **Iterate and Monitor**  
-   - Trial adjustments for 4–6 weeks.  
-   - Use dashboards (heatmaps + scenario tracking) to confirm no significant sales loss.  
-   - Adjust staffing mix if demand shifts.
+   - Pilot changes for 4–6 weeks.  
+   - Track via dashboards to confirm no revenue impact.  
+   - Be ready to adjust if demand shifts.  
 ---
 
 ### Deliverables
