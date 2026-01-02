@@ -172,9 +172,4 @@ All scenarios assume one staff member per day, with extra Saturday support, acro
    - Pilot changes for 4–6 weeks.  
    - Track via dashboards to confirm no revenue impact.  
    - Be ready to adjust if demand shifts.  
----
 
-### Deliverables
-- SQL ETL scripts (Bronze → Silver → Gold)  
-- Power BI dashboards (Sales Trends, Store Hours Matrix, Scenario Comparison)  
-- Business summary (this README)
